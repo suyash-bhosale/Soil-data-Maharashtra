@@ -4,10 +4,10 @@ This repository contains a concise analysis of Maharashtra's soil resources, foc
 
 ## Key Features
 
-* **Soil Type Overview:** Descriptions of major soil classes in Maharashtra (Vertisols, Luvisols, Cambisols, etc.) and their agricultural suitability. [cite: 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133]
-* **Regional Focus:** Information on where these soils are found and what crops they support (e.g., Vertisols in the Deccan Plateau for cotton). [cite: 137, 138, 139, 140]
-* **Estimated Soil Distribution:** Approximate percentages of each soil group across the state. [cite: 134, 135]
-* **Agricultural Recommendations:** Brief guidelines for farmers on soil management and crop selection. [cite: 141, 142, 143, 144]
+* **Soil Type Overview:** Descriptions of major soil classes in Maharashtra (Vertisols, Luvisols, Cambisols, etc.) and their agricultural suitability. 
+* **Regional Focus:** Information on where these soils are found and what crops they support (e.g., Vertisols in the Deccan Plateau for cotton).
+* **Estimated Soil Distribution:** Approximate percentages of each soil group across the state. 
+* **Agricultural Recommendations:** Brief guidelines for farmers on soil management and crop selection. 
 
 ## Data Source
 
